@@ -1,0 +1,24 @@
+{
+  "name": "musictool_node",
+  "version": "1.0.0",
+  "description": "Using Scribbletune in Node it will be able to create music notes that can be used with music sequencer(ex. Ableton Live ) to create music",
+  "main": "c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myskam7/MusicTool_Node.git"
+  },
+  "author": "Maksym Filippov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myskam7/MusicTool_Node/issues"
+  },
+  "homepage": "https://github.com/myskam7/MusicTool_Node#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.15.0",
+    "scribbletune": "^0.11.2"
+  }
+}
